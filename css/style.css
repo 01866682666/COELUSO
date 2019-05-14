@@ -1,0 +1,342 @@
+body{
+	background:#0a2345;
+	font-family: sans-serif;
+
+}
+
+section{
+	padding: 50px 0px;
+}
+.hero{
+		text-align: center;
+		color: #2a5da3;
+}
+
+
+.white{
+	color: white;
+}
+
+.btn-custom{
+			    padding: 4px 20px;
+    border-radius: 35px;
+    background: #00000052;
+    border: 1px solid #2a5da3;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 50px;
+
+}
+
+.port{
+	background: url(../image/section.png)no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 200px 0px;
+}
+
+.template{
+	padding: 100px 0px;
+	background:#092040;
+	color: #2a5da3;
+}
+
+.template p{
+	font-size: 11px;
+	padding-right: 7px;
+
+}
+.headphone{
+	position: absolute;
+	margin-left: -75px;
+
+}
+
+
+.mute{
+	color: silver;
+
+}
+.top{
+	margin-top: 45px;
+
+}
+
+
+.coe{
+	color:  #2a5da3;
+}
+.center{
+	text-align: center;
+	padding:55px 0px;
+}
+
+.normal{
+	padding: 50px 0px;
+	background-color: #0920408c;
+}
+
+
+.fas.fa-volume-down{
+		font-size: 40px;
+		color: maroon;
+
+}
+
+.fas.fa-wave-square{
+	font-size: 40px;
+		color: maroon;
+		padding-top: 20px;
+}
+
+
+
+.fas.fa-headphones{
+	font-size: 40px;
+		color: maroon;
+		
+
+}
+
+.fab.fa-stumbleupon-circle{
+	font-size: 40px;
+		color: maroon;
+		padding-top: 20px;
+}
+
+.two h4{
+		color: white;
+		font-size: 15px;
+		padding: 10px 0px;
+
+}
+
+.one h4{
+		color: white;
+		font-size: 15px;
+		padding: 10px 0px;
+}
+
+.one p{
+	color: silver;
+	font-size: 9px;
+	
+
+}
+
+.two p{
+	color: silver;
+	font-size: 9px;
+	
+
+
+}
+
+.phone{
+	height:550px;
+	margin-top: -80px;
+
+}
+
+.comment{
+
+}
+
+
+.fas.fa-power-off{
+		font-size: 50px;
+		color: maroon;
+
+}
+
+.comment h2{
+		font-size: 20px;
+		color: white;
+		padding: 20px 0px;
+
+}
+
+.comment p{
+	font-size: 10px;
+	color: silver;
+
+}
+
+
+
+
+
+.slider{
+
+	    background: linear-gradient(#05152540,#040435d1),
+	    linear-gradient(#04042f7d,#080869c2),
+	     url(../image/laptop.jpg)no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0px;
+    color: white;
+    text-align: center;
+
+}
+
+
+
+
+.circle{
+	width: 20px;
+	border-radius: 50px;
+
+}
+
+
+.ccc{
+	font-size: 9px;
+	color: silver;
+
+}
+
+
+
+.jumbo{
+	text-align: center;
+	padding: 75px 0px;
+	background: #010103de;
+
+}
+
+
+
+.upp h2{
+	text-align: center;
+	color: white;
+}
+.upp p{
+	text-align: center;
+	color: silver;
+
+}
+
+.footer{
+	color:#2a5da3;
+	background:#010103e8;
+}
+
+.dd ul li{
+	display: inline-block;
+	margin: 10px;
+	text-align: center;
+	cursor: pointer;
+
+}
+
+.gg p{
+	text-align: center;
+	padding-top: 10px;
+}
+
+.hidden{
+	text-align: center;
+	display: none;
+	color: silver;
+
+}
+
+
+@media (min-width: 0) and (max-width: 500px)
+
+{
+
+	section{
+		padding: 10px 0px;
+
+	}
+
+.btn-custom{
+	margin-bottom: 10px;
+
+}
+
+
+.top{
+	padding-top: 320px;
+
+
+
+}
+
+
+.template{
+	padding: 10px 0px;
+
+}
+
+
+.normal{
+	padding: 10px 0px;
+
+}
+
+.hidden{
+	visibility: visible;
+
+}
+
+.center {
+    text-align: center;
+    padding: 5px 0px;
+}
+
+.dd ul li{
+	margin: 10px;
+
+}
+.jumbo{
+	padding: 10px 0px;
+	
+}
+
+}
+
+
+
+
+
+
+@media(min-width: 501px) and (max-width: 800px){
+
+
+
+	section{
+		padding: 10px 0px;
+
+	}
+
+.btn-custom{
+	margin-bottom: 10px;
+
+}
+
+
+.top
+{
+margin-top:300px;
+
+
+
+}
+
+.headphone{
+	position: none;
+
+}
+
+}
+
+
+
+
+
+
+
+
+
